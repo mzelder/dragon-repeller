@@ -39,3 +39,5 @@ function goCave() {
 function fightDragon() {
   console.log("Fighting dragon.");
 }
+
+// showing monster
